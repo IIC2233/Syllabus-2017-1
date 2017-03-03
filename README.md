@@ -38,4 +38,4 @@ Puedes ver los `syllabus` de los semestres anteriores en:
 
 # Otros
 
-Los contenidos, ayudantes, calendario, **cuestionario de recorrecciones** y material se encuentran en este [link](iic2233.github.io).
+Los contenidos, ayudantes, calendario, **cuestionario de recorrecciones** y material se encuentran en este [link](https://iic2233.github.io/).
