@@ -15,10 +15,10 @@ controles (de materia y/o lecturas adicionales), tareas y un examen final. Se ca
     - **AC** debe ser mayor o igual a 4.000
     - **T** debe ser mayor o igual a 3.950
 1. Si el alumno cumple con las condiciones anteriores, entonces **NF = NC**. En caso contrario, **NF = min(3,9; NC)**
-1. La inasistencia a alguna de las evaluaciones (actividad, control, examen) se evalúa con nota 1.0
+1. La inasistencia a alguna de las evaluaciones (actividad, control, examen) se evalúa con nota 1.0.
 1. Se pueden eliminar las dos peores notas de actividades.
-1. También podrá eliminar la nota de un control
-1. NO se borrará ninguna otra evaluación de las estipuladas en los puntos anteriores. 
+1. Se elimina la nota del peor control.
+1. NO se borrará ninguna otra evaluación (actividad, control, tareas, examen) aparte de las estipuladas en los puntos anteriores.  
 1. Solo será aproximada la nota final NF. El resto de las notas serán usadas con dos decimales.
 
 
