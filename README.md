@@ -8,7 +8,7 @@ controles (de materia y/o lecturas adicionales), tareas y un examen final. Se ca
 
     **NC = 0.15xFE + 0.4xT + 0.25xAC + 0.2xC**
 
-    Donde **FE** es la nota del examen final, **T** es el promedio de las tareas, **AC** es el promedio de las actividades en clases sin incluir la peor de ellas, y **C** es el promedio de los controles.
+    Donde **FE** es la nota del examen final, **T** es el promedio de las tareas, **AC** es el promedio de las actividades en clases, y **C** es el promedio de los controles.
 
 1.  Adicionalmente, para aprobar el curso el alumno debe cumplir con:
     - **FE** debe ser mayor o igual a 3.500
