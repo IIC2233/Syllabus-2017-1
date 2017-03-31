@@ -23,7 +23,7 @@ def generate_connections(path = "./",file_names = ["airports"]):
 			#sigo leyendo linea por linea
 			#primero completamos el diccionario con los paises respectivos
 			for line in file_in:
-				line = line.strip().replace(",","")
+				line = line.strip().replace(",","").title()
 				if not dict_countries.get(line):
 					dict_countries[line] = set()
 
