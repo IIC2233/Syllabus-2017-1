@@ -4,7 +4,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
-| **A1 01-A** | B-Dominguez | Benjamin Dominguez |  |   |
+| **A1 01-A** | kadawn0 | Catalina Sarmiento |  |   |
 | **A1 01-B** | jiaranda | Javier Aranda |  |   |
 | **A1 01-C** | maxjosecr | Maximiliano Cortes |  |   |
 | **A1 01-D** | macarenasoffia | Macarena Soffia |  |   |
@@ -64,7 +64,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **A1 06-C** | tomvalenz | Tomas Valenzuela |  |   |
 | **A1 06-D** | dfvasquez | Daniela Vasquez |  |   |
 | **A1 06-E** | fcgfaura | Fernanda Garcia |  |   |
-| **A1 06-H** | kadawn0 | Catalina Sarmiento |  |   |
+| **A1 06-H** | B-Dominguez | Benjamin Dominguez |  |   |
 | **A1 06-I** | almabeta | Guillermo Orellana |  |   |
 | **A1 06-J** | JaviFerrada | Javiera Ferrada |  |   |
 | **A1 06-K** | bimartinez | Benjamin Martinez |  |   |
