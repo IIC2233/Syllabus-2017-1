@@ -1,0 +1,71 @@
+----------Consulta 1
+['asignar', 'x', ['extraer_columna', 'registros', 'tiempo_sano']]
+Resultado:  asignar
+Time: 0.001 second
+
+----------Consulta 2
+['asignar', 'y', ['extraer_columna', 'registros', 'muertos_avistados']]
+Resultado:  asignar
+Time: 0.0 second
+
+----------Consulta 3
+['comparar', ['PROM', 'x'], '>', ['DESV', 'y']]
+Resultado:  False
+Time: 4.493 second
+
+----------Consulta 4
+['asignar', 'filtrado', ['filtrar', 'x', '>', 100]]
+Resultado:  asignar
+Time: 0.0 second
+
+----------Consulta 5
+['asignar', 'funcion_normal', ['evaluar', ['crear_funcion', 'normal', 0, 0.5], -3, 5, 0.1]]
+Resultado:  asignar
+Time: 0.0 second
+
+----------Consulta 6
+['PROM', 'filtrado']
+Resultado:  2500.759466337619
+Time: 0.33 second
+
+----------Consulta 7
+['VAR', 'funcion_normal']
+Resultado:  0.05559361818635886
+Time: 0.0 second
+
+----------Consulta 8
+['do_if', ['VAR', 'funcion_normal'], ['comparar_columna', 'funcion_normal', '>', 'DESV', 'x'], ['PROM', 'x']]
+Resultado:  1249.9998915992685
+Time: 0.486 second
+
+----------Consulta 9
+['graficar', 'filtrado', 'numerico']
+Resultado:  graficar
+Time: 2.206 second
+
+----------Consulta 10
+['graficar', 'normal2', 'rango: -3,5,0.1']
+Error de consulta:  'graficar'('normal2', 'rango: -3,5,0.1')
+Causa: Referencia invalida
+Time: 0.00 second
+
+----------Consulta 11
+['asignar', 'gamma', ['evaluar', ['crear_funcion', 'gamma', 2, 0.16666666666666666], 0, 40, 4e-05]]
+Resultado:  asignar
+Time: 0.0 second
+
+----------Consulta 12
+['comparar_columna', 'x', '>', 'DESV', 'gamma']
+Resultado:  True
+Time: 9.732 second
+
+----------Consulta 13
+['graficar', 'x', 'rango: 0.00004, 40, 0.00004']
+Error de consulta:  'graficar'('x', 'rango: 0.00004, 40, 0.00004')
+Causa: Imposible procesar
+Time: 0.368 second
+
+----------Consulta 14
+['graficar', 'x', 'normalizado']
+Resultado:  graficar
+Time: 1.583 second
