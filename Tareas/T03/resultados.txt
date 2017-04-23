@@ -50,12 +50,12 @@ Causa: Referencia invalida
 Time: 0.00 second
 
 ----------Consulta 11
-['asignar', 'gamma', ['evaluar', ['crear_funcion', 'gamma', 2, 0.16666666666666666], 0, 40, 4e-05]]
+['asignar', 'funcion_gamma', ['evaluar', ['crear_funcion', 'gamma', 2, 1], 0, 40, 4e-05]]
 Resultado:  asignar
 Time: 0.0 second
 
 ----------Consulta 12
-['comparar_columna', 'x', '>', 'DESV', 'gamma']
+['comparar_columna', 'x', '>', 'DESV', 'funcion_gamma']
 Resultado:  True
 Time: 9.732 second
 
