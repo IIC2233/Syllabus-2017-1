@@ -8,7 +8,7 @@
 	["VAR", "funcion_normal"], 
 	["do_if", ["VAR", "funcion_normal"], ["comparar_columna", "funcion_normal", ">", "DESV", "x"], ["PROM", "x"]], 
 	["graficar", "filtrado", "numerico"], 
-	["graficar", "normal", "rango: -3,5,0.1"], 
+	["graficar", "normal2", "rango: -3,5,0.1"], 
 	["asignar", "gamma", ["evaluar", ["crear_funcion", "gamma", 2, 0.16666666666666666], 0, 40, 4e-05]], 
 	["comparar_columna", "x", ">", "DESV", "gamma"], 
 	["graficar", "x", "rango: 0.00004, 40, 0.00004"], 
