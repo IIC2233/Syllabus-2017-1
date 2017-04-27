@@ -4,7 +4,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
-| **A1 01-A** | Javierdr | Javier Dreves |  |   |
+| **A1 01-A** | kadawn0 | Catalina Sarmiento |  |   | 
 | **A1 01-B/C** | dgonzalezg | Diego Gonzalez | adisrael | Alexander Israel |
 | **A1 01-D/E** | Okhan97 | Ignacio Peã‘Afiel | tomvalenz | Tomas Valenzuela |
 | **A1 01-H/I** | mduhalde1 | Magdalena Duhalde | jnpoblete | Jose Poblete |
@@ -35,7 +35,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **A1 05-I/J** | bhguajardo | Benjamin Guajardo | acrojas2 | Alejandra Rojas |
 | **A1 05-K/L** | alobatog | Alejandro Lobato | almabeta | Guillermo Orellana |
 | **A1 06-A/B** | NicolasCourt | Nicolas Court | ChayoPerez | Rosario Perez |
-| **A1 06-C/D** | nborquezg | Nicolas Borquez | kadawn0 | Catalina Sarmiento |
+| **A1 06-C/D** | nborquezg | Nicolas Borquez |   Javierdr | Javier Dreves |
 | **A1 06-E/F** | vaguila95 | Vicente Aguila | GastonGaete | Gaston Gaete |
 | **E15 01-A/B** | hagarces | Hector Garces | egromero | Erick Romero |
 | **E15 01-C/D** | pggodoy | Pablo Godoy | felipe-barria95 | Felipe Barria |
