@@ -4,7 +4,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
-| **A1 01-A** | frvalenzuela | Felipe Valenzuela |  |   |
+| **A1 01-A** | kadawn0 | Catalina Sarmiento |  |   |
 | **A1 01-B/C** | jnlarrain | Jose Larrain | ofvera | Octavio Vera |
 | **A1 01-D/E** | malopez16 | Mauricio Lopez | BibarelUsedFly | Felipe Villagran |
 | **A1 01-H/I** | BeaGaete | Beatriz Gaete | berrazuriz1 | Benjamin Errazuriz |
@@ -24,7 +24,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **A1 03-K/L** | jiaranda | Javier Aranda | NicolasCourt | Nicolas Court |
 | **A1 04-A/B** | timellado | Tomas Mellado | acrojas2 | Alejandra Rojas |
 | **A1 04-C/D** | Javierdr | Javier Dreves | sofiapacheco1 | Sofia Pacheco |
-| **A1 04-E/F** | kadawn0 | Catalina Sarmiento | macarenasoffia | Macarena Soffia |
+| **A1 04-E/F** | frvalenzuela | Felipe Valenzuela | macarenasoffia | Macarena Soffia |
 | **A1 04-G/H** | GastonGaete | Gaston Gaete | dgonzalezg | Diego Gonzalez |
 | **A1 04-I/J** | tomvalenz | Tomas Valenzuela | nlaraya | Nicolas Araya |
 | **A1 04-K/L** | Okhan97 | Ignacio Peã‘Afiel | jorgeriesco | Jorge Riesco |
