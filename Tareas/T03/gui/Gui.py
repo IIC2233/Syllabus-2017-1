@@ -136,6 +136,10 @@ class MyWindow(QtWidgets.QMainWindow):
         menu_archivo_abrir = QtWidgets.QAction(QtGui.QIcon(), "&Abrir", self)
         menu_archivo_abrir.triggered.connect(self.load_path)
         menu_archivo.addAction(menu_archivo_abrir)
+        with open("consultas.json") as file:
+            json_file = json.load(file)
+        for querry in json_file:
+            self.add_querry(str(querry))
 
     def load_path(self):
         with open("consultas.json") as file:
