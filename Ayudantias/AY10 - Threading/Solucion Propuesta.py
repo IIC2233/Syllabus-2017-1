@@ -26,7 +26,7 @@ class Lloraton(Thread):
 
     def run(self):
         self.time = time.time()
-        spawner = Thread(target=spawn_alumnos, args=(alumnos, 0.5, self.ayudantes), daemon=True)
+        spawner = Thread(target=spawn_alumnos, args=(self.alumnos, 0.5, self.ayudantes), daemon=True)
         spawner.start()
         while time.time() - self.time < self.max_time:
             # Eventualmente, podriamos querer que la lloraton tambien desencadene eventos.
