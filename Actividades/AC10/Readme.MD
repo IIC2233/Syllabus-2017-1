@@ -4,7 +4,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
-| **A1 01-A/B** | alobatog | Alejandro Lobato | Rudyjb24 | Rudyard Jerez |
+| **A1 01-A** | kadawn0 | Catalina Sarmiento  |  |  |
 | **A1 01-C/D** | macarenasoffia | Macarena Soffia | almabeta | Guillermo Orellana |
 | **A1 01-E/F** | bimartinez | Benjamin Martinez | JaviFerrada | Javiera Ferrada |
 | **A1 01-G/H** | nborquezg | Nicolas Borquez | BibarelUsedFly | Felipe Villagran |
@@ -12,7 +12,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **A1 01-K/L** | malopez16 | Mauricio Lopez | ofvera | Octavio Vera |
 | **A1 02-A/B** | GastonGaete | Gaston Gaete | pcsalvo | Paula Salvo |
 | **A1 02-C/D** | sofiapacheco1 | Sofia Pacheco | Okhan97 | Ignacio Peã‘Afiel |
-| **A1 02-E/F** | kadawn0 | Catalina Sarmiento | dgonzalezg | Diego Gonzalez |
+| **A1 02-E** |  dgonzalezg | Diego Gonzalez |  |  |
 | **A1 02-G/H** | GabrielGarib | Gabriel Garib | tcgarrido | Tanya Garrido |
 | **A1 02-I/J** | cghernandez | Claudio Hernandez | maxjosecr | Maximiliano Cortes |
 | **A1 02-K/L** | yoavnavon | Yoav Navon | rgriver | Rodrigo Rivera |
@@ -36,6 +36,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **A1 05-K/L** | ChayoPerez | Rosario Perez | adisrael | Alexander Israel |
 | **A1 06-A/B** | timellado | Tomas Mellado | djcontador | Daniela Contador |
 | **A1 06-C/D** | NicolasCourt | Nicolas Court | monicabelen | Monica Ballesteros |
+| **A1 06-E/F** | alobatog | Alejandro Lobato | Rudyjb24 | Rudyard Jerez |
 | **E15 01-A/B** | rjdelrio | Raul Del Rio | maxfreymo | Maximiliano Frey |
 | **E15 01-C/D** | felipe-barria95 | Felipe Barria | mafillol | Macarena Fillol |
 | **E15 01-E/F** | vamarambio | Victor Marambio | jhughesm | James Hughes |
