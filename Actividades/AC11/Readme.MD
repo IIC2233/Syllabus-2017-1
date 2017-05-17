@@ -4,7 +4,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
-| **A1 01-A/B** | AmbrosioV | Ambrosio Valdes | malopez16 | Mauricio Lopez |
+| **A1 01-A** |kadawn0 | Catalina Sarmiento |||
 | **A1 01-C/D** | B-Dominguez | Benjamin Dominguez | nivek0o0 | Kevin Johnson |
 | **A1 01-E/F** | jorgeriesco | Jorge Riesco | tcgarrido | Tanya Garrido |
 | **A1 01-G/H** | JaviFerrada | Javiera Ferrada | nborquezg | Nicolas Borquez |
@@ -22,7 +22,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **A1 03-G/H** | Okhan97 | Ignacio Peã‘Afiel | NicolasCourt | Nicolas Court |
 | **A1 03-I/J** | acrojas2 | Alejandra Rojas | jnpoblete | Jose Poblete |
 | **A1 03-K/L** | ChayoPerez | Rosario Perez | fmiranda22 | Francisco Miranda |
-| **A1 04-A/B** | kadawn0 | Catalina Sarmiento | rgriver | Rodrigo Rivera |
+| **A1 04-A** | rgriver | Rodrigo Rivera | |
 | **A1 04-C/D** | jiaranda | Javier Aranda | BeaGaete | Beatriz Gaete |
 | **A1 04-E/F** | consuvalencia | Consuelo Valencia | monicabelen | Monica Ballesteros |
 | **A1 04-G/H** | timellado | Tomas Mellado | pcsalvo | Paula Salvo |
@@ -36,6 +36,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **A1 05-K/L** | dgonzalezg | Diego Gonzalez | cghernandez | Claudio Hernandez |
 | **A1 06-A/B** | tomvalenz | Tomas Valenzuela | TamaraCucumides | Tamara Cucumides |
 | **A1 06-C/D** | Zupeuc | Daniel Zupeuc | pinavarrete | Patricio Navarrete |
+| **A1 06-E/F** | AmbrosioV | Ambrosio Valdes | malopez16 | Mauricio Lopez |
 | **E15 01-A/B** | chapito96 | Santiago Torres | ignacioaraya1995 | Ignacio Araya |
 | **E15 01-C/D** | TomasSalvadores | Tomas Salvadores | ranieto | Ronny Nieto |
 | **E15 01-E/F** | hagarces | Hector Garces | lvvillarroel | Leyla Villarroel |
