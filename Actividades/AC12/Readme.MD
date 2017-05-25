@@ -4,7 +4,8 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
-| **A1 01-A/B** | rgriver | Rodrigo Rivera | Zupeuc | Daniel Zupeuc |
+| **A1 01-A** | kadawn0 | Catalina Sarmiento | |  |
+| **A1 01-B** |  Zupeuc | Daniel Zupeuc | ||
 | **A1 01-C/D** | malopez16 | Mauricio Lopez | anavarro01 | Andres Navarro |
 | **A1 01-E/F** | vaguila95 | Vicente Aguila | jiaranda | Javier Aranda |
 | **A1 01-G/H** | frvalenzuela | Felipe Valenzuela | anguiloff | Allan Guiloff |
@@ -36,6 +37,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **A1 05-K/L** | adisrael | Alexander Israel | alobatog | Alejandro Lobato |
 | **A1 06-A/B** | JaviFerrada | Javiera Ferrada | ChayoPerez | Rosario Perez |
 | **A1 06-C/D** | kadawn0 | Catalina Sarmiento | GabrielGarib | Gabriel Garib |
+| **A1 06-E/F** | rgriver | Rodrigo Rivera | GabrielGarib | Gabriel Garib |
 | **E15 01-A/B** | TomasSalvadores | Tomas Salvadores | Genaron | Genaro Laymuns |
 | **E15 01-C/D** | cilopez | Camilo Lopez | sschwarzenberg | Sofia Schwarzenberg |
 | **E15 01-E/F** | JoseValencia125 | Jose Valencia | LuisFros | Luis Fros |
