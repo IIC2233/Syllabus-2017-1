@@ -4,7 +4,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------| 
-| **A1 01-A** | nivek0o0 | Kevin Johnson |  |   |
+| **A1 01-A** | kadawn0	| Catalina Sarmiento |  |   |
 | **A1 01-B** | nachojarasaez | Ignacio Jara |  |   |
 | **A1 01-C** | dgonzalezg | Diego Gonzalez |  |   |
 | **A1 01-D** | djcontador | Daniela Contador |  |   |
