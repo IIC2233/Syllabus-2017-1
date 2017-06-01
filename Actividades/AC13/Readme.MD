@@ -3,7 +3,7 @@
 La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisarla antes del tÃ©rmino de la clase**.
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
-|:-------|:-------|:---------|:-------|:---------|
+|:-------|:-------|:---------|:-------|:---------| 
 | **A1 01-A** | nivek0o0 | Kevin Johnson |  |   |
 | **A1 01-B** | nachojarasaez | Ignacio Jara |  |   |
 | **A1 01-C** | dgonzalezg | Diego Gonzalez |  |   |
@@ -39,7 +39,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **A1 03-M** | almabeta | Guillermo Orellana |  |   |
 | **A1 04-A** | vaguila95 | Vicente Aguila |  |   |
 | **A1 04-B** | fmiranda22 | Francisco Miranda |  |   |
-| **A1 04-C** | kadawn0 | Catalina Sarmiento |  |   |
+| **A1 04-C** | nivek0o0 | Kevin Johnson |  |   |
 | **A1 04-D** | TamaraCucumides | Tamara Cucumides |  |   |
 | **A1 04-E** | AmbrosioV | Ambrosio Valdes |  |   |
 | **A1 04-H** | tcgarrido | Tanya Garrido |  |   |
