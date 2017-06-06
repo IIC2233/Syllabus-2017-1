@@ -3,9 +3,9 @@ import json
 import socket
 import threading
 
-__author__ = 'Vicente' # Modificado por Ivania :)
+__author__ = 'Vicente' # Modificado por Ivania :) Remodificado por fringles y diiru
 
-PORT = 3490
+PORT = 3492
 
 class Cliente:
 

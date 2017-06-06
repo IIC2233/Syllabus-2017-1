@@ -1,14 +1,10 @@
 import socket
 import threading
-import sys
 import json
 
-__author__ = 'Vicente' # Modificado por Ivania :)
+__author__ = 'Vicente' # Modificado por Ivania :) Remodificado por fringles y diiru
 
-PORT = 3490
-
-
-
+PORT = 3492
 class Servidor:
 
     def __init__(self, usuario):
@@ -19,7 +15,7 @@ class Servidor:
         # Debemos hacer el setup para poder escuchar a los clientes que se quieran conectar
         self.s_servidor.bind((self.host, self.port))
         # En este caso solo queremos escuchar un cliente
-        self.s_servidor.listen(2)
+        self.s_servidor.listen(1)
         self.cliente = None
         thread = threading.Thread(target=self.aceptar, daemon=True)
         thread.start()
