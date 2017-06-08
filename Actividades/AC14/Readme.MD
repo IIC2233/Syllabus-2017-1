@@ -4,7 +4,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
-| **A1 01-A** | tburotto | Tomas Burotto |  |   |
+| **A1 01-A** | kadawn0 | Catalina Sarmiento |  |   |
 | **A1 01-B/C** | anguiloff | Allan Guiloff | jnlarrain | Jose Larrain |
 | **A1 01-D/E** | djcontador | Daniela Contador | berrazuriz1 | Benjamin Errazuriz |
 | **A1 01-H/I** | yoavnavon | Yoav Navon | GastonGaete | Gaston Gaete |
@@ -29,7 +29,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **A1 04-I/J** | malopez16 | Mauricio Lopez | fcgfaura | Fernanda Garcia |
 | **A1 04-K/L** | nivek0o0 | Kevin Johnson | B-Dominguez | Benjamin Dominguez |
 | **A1 05-A/B** | nlaraya | Nicolas Araya | BeaGaete | Beatriz Gaete |
-| **A1 05-C/D** | anavarro01 | Andres Navarro | kadawn0 | Catalina Sarmiento |
+| **A1 05-C/D** | anavarro01 | Andres Navarro | tburotto | Tomas Burotto |
 | **A1 05-E/F** | vaguila95 | Vicente Aguila | AmbrosioV | Ambrosio Valdes |
 | **A1 05-G/H** | nborquezg | Nicolas Borquez | dfvasquez | Daniela Vasquez |
 | **A1 05-I/J** | cnscheihing | Claudio Scheihing | maxjosecr | Maximiliano Cortes |
