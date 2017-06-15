@@ -1,0 +1,22 @@
+﻿ Para esta parte usarás
+ la API de wikipedia.
+ Debes crear tu propia copia
+ de la famosa página.
+ Se llamará PrograPedia y tendrá
+ sus propias
+ PrograPaginas título, contenido, url(a Wikipedia) y sus id.
+ El contenido debe estar separado por sección con su respectiva información.
+ Las páginas solo deben estar en español
+Tu programa
+ debe ser capaz
+ de recibir
+ una palabra
+ a buscar.
+ Luego debe
+ mostrar el
+ resultado de la
+ búsqueda en
+ pantalla y guardar su información, como PrograPágina, para 
+posterior uso del programa.
+Debe estar la opción de poder salir del programa y las páginas 
+ya creadas deben ser guardadas para realizar menos requests en caso de ya existir en la base de datos
