@@ -6,8 +6,8 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 |:-------|:-------|:---------|:-------|:---------|
 
 
-| **A1 01-A** | kadawn0 | Catalina Sarmiento |||
-| **A1 01-B** | nachojarasaez | Ignacio Jara |||
+| **A1 01-A** | kadawn0 | Catalina Sarmiento ||
+| **A1 01-B** | nachojarasaez | Ignacio Jara ||
 | **A1 01-C/D** | sofiapacheco1 | Sofia Pacheco | GastonGaete | Gaston Gaete |
 | **A1 01-E/F** | AmbrosioV | Ambrosio Valdes | berrazuriz1 | Benjamin Errazuriz |
 | **A1 01-G/H** | nborquezg | Nicolas Borquez | dfvasquez | Daniela Vasquez |
