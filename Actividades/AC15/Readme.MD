@@ -4,7 +4,10 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
-| **A1 01-A/B** | tomvalenz | Tomas Valenzuela | pcsalvo | Paula Salvo |
+
+
+| **A1 01-A** | kadawn0 | Catalina Sarmiento |||
+| **A1 01-B** | nachojarasaez | Ignacio Jara |||
 | **A1 01-C/D** | sofiapacheco1 | Sofia Pacheco | GastonGaete | Gaston Gaete |
 | **A1 01-E/F** | AmbrosioV | Ambrosio Valdes | berrazuriz1 | Benjamin Errazuriz |
 | **A1 01-G/H** | nborquezg | Nicolas Borquez | dfvasquez | Daniela Vasquez |
@@ -26,7 +29,7 @@ La asistencia aparecerÃ¡ en [Asistencia.tsv](Asistencia.tsv). **Recuerda revis
 | **A1 04-C/D** | alobatog | Alejandro Lobato | jorgeriesco | Jorge Riesco |
 | **A1 04-E/F** | fmiranda22 | Francisco Miranda | malopez16 | Mauricio Lopez |
 | **A1 04-G/H** | timellado | Tomas Mellado | BeaGaete | Beatriz Gaete |
-| **A1 04-I/J** | kadawn0 | Catalina Sarmiento | nachojarasaez | Ignacio Jara |
+| **A1 04-I/J** | tomvalenz | Tomas Valenzuela | pcsalvo | Paula Salvo |
 | **A1 04-K/L** | nivek0o0 | Kevin Johnson | acrojas2 | Alejandra Rojas |
 | **A1 05-A/B** | djcontador | Daniela Contador | Zupeuc | Daniel Zupeuc |
 | **A1 05-C/D** | fcgfaura | Fernanda Garcia | frvalenzuela | Felipe Valenzuela |
