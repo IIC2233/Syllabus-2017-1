@@ -1,0 +1,56 @@
+# Control 8
+
+### Forma 1
+**1) (3 pts.) Al usar pickle, ¿de qué forma es posible personalizar la deserialización de un objeto cualquiera? Escriba un ejemplo.**
+
+Para personalizar la deserialización en pickle, se debe sobrecargar el método `__setstate__` de la clase que será deserializada. En este método, se recibe el estado del objeto serializado. Luego, modificando dicho estado y seteando el `self.__dict__` el estado de la clase quedará fijo como nosotros lo hayamos personalizado.
+
+#### Distribución de puntaje
+
+- 1.5 puntos por explicar correctamente como personalizar la deserialiación, y explicar el funcionamiento de `__setstate__`.
+- 1.5 puntos por dar un ejemplo en el cual es útil personalizar la deserialización.
+- Si se confunde entre serialización y deserialización, o entre `__setstate__` y `__getstate__` pero es consistente en su explicación y ejemplo, se da la mitad del puntaje (1.5 puntos en total).
+
+
+**2) (3 pts.) ¿Qué debería realizar para que cada vez que se ejecute la serialización en json de la clase`Item` el atributo `visitas` aumente en uno?**
+
+```python
+class Item:
+    def __init__(self, sku, nombre, descripcion):
+        self.sku = sku
+        self.nombre = nombre
+        self.desc = descripcion
+        self.visitas = 0
+```
+
+Para personalizar la serialización de un objeto, se debe crear una clase que herede de `json.JSONEncoder`. Dentro de esta clase, se debe implementar el método `default`, el cual recibe un objeto, y debe retornar un diccionario, el cual será el que se serializa con `json.dumps`. Para que funcione correctamente, al momento de llamar a `json.dumps`, se debe entregar el objeto que va a ser serializado, y al parámetro cls se le debe entregar nuestro `json.JSONEncoder`. Luego, para hacer que el atributo aumente en uno, dentro del método `default`,  a `self.visitas` se le suma 1 y finalmente se retorna un diccionario con los atributos necesarios de la clasa.
+
+#### Distribución de puntaje
+
+- 1 punto por explicar que se debe crear una clase que herede de `json.JSONEncoder`.
+- 1 punto por explicar que se debe implementar el método `default` dentro de la clase.
+- 1 punto por explicar en que momento se debe modificar el atributo.
+
+### Forma 2
+
+**1) (3 pts.) Explique brevemente de qué forma es posible personalizar la deserializacion en pickle de un objeto cualquiera. Escriba un ejemplo.**
+
+Para personalizar la deserialización en pickle, se debe sobrecargar el método `__setstate__` de la clase que será deserializada. En este método, se recibe el estado del objeto serializado. Luego, modificando dicho estado y seteando el `self.__dict__` el estado de la clase quedará fijo como nosotros lo hayamos personalizado.
+
+#### Distribución de puntaje
+
+- 1.5 puntos por explicar correctamente como personalizar la deserialiación, y explicar el funcionamiento de `__setstate__`.
+- 1.5 puntos por dar un ejemplo en el cual es útil personalizar la deserialización.
+- Si se confunde entre serialización y deserialización, o entre `__setstate__` y `__getstate__` pero es consistente en su explicación y ejemplo, se da la mitad del puntaje (1.5 puntos en total). 
+
+
+**2) (3 pts.) Explique brevemente que papel tienen los métodos `__exit__` y `__enter__`. Escriba un ejemplo.**
+
+Los métodos `__exit__` y `__enter__` son utilizados para utilizar la clase como un context manager. El método `__enter__` se llama para inicializar el contexto del objeto, y es llamado al momento de hacer with. El método `__exit__` se utiliza para finalizar el contexto, y se llama al finalizar el scope de la sentencia with. Dos ejemplos comunes en el curso son la implementación de los archivos y de los lock. En los archivos,  `__enter__` se preocupa de abrir el archivo, y `__exit__` se preocupa de cerrarlo. En el caso de los locks,  `__enter__` se encarga de adquirir el lock, y `__exit__` se encarga de hacer el release.
+
+#### Distribución de puntaje
+
+- 1 punto por explicar para que se usan los métodos `__exit__` y `__enter__`. 
+- 1 punto por explicar en qué momento se llaman
+- 1 punto por un ejemplo correcto (puede ser el de locks, archivos o cualquier otro ejemplo que se haya dado, y que sea correcto).
+
